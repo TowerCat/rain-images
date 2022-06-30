@@ -1,2 +1,1 @@
-FROM k8s.gcr.io/defaultbackend-amd64
-MAINTAINER towercat <superfdt@163.com>
+FROM k8s.gcr.io/defaultbackend-amd64:v1.5
